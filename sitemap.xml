@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tsum323.github.io/barbershop-template/</loc>
+        <lastmod>2026-10-08</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tsum323.github.io/barbershop-template/services.html</loc>
+        <lastmod>2026-10-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tsum323.github.io/barbershop-template/barbers.html</loc>
+        <lastmod>2026-10-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tsum323.github.io/barbershop-template/works.html</loc>
+        <lastmod>2026-10-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tsum323.github.io/barbershop-template/about.html</loc>
+        <lastmod>2026-10-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tsum323.github.io/barbershop-template/contacts.html</loc>
+        <lastmod>2026-10-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+</urlset>
